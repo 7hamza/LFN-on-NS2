@@ -1,0 +1,11 @@
+
+**Execution du script .sh :
+	execution du script python
+	execution du script tcl
+	generation des graphes dans les dossiers: queues/ outs/ et sinks/
+
+** module scipy et numpy requis pour le prog python
+
+**presence des dossiers queues/ outs/ et sinks/ dans le dossier courant requis pour la direction des fichiers de trace (normalement c'est deja fait)
+
+execution sh project.sh
